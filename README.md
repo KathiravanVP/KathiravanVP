@@ -47,3 +47,22 @@
   <img width="48%" src="https://streak-stats.demolab.com/?user=KathiravanVP&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
+### 📄 Manual Testing
+
+- ✅ [SoftwareTestingProjects](https://github.com/KathiravaVP/SoftwareTestingProjects) – Functional test plan and test cases
+
+### 📚 Java Learning
+
+- 📘 [LearningJavaPrograms](https://github.com/KathiravaVP/SoftwareTestingProjects) - Java basic programs and OOPs concepts
+
+### 🌐 API Testing
+
+- 🧪 [postman-crud-tests](https://github.com/KathiravaVP/SoftwareTestingProjects) – API testing for CRUD operations
+- ✅ [APIAutomationPrograms](https://github.com/KathiravaVP/ATB11xAPIAutomationPrograms) – REST API HTTP methods and TestNG
+- 🔄 [APIAutomationFramework](https://github.com/KathiravaVP/APIAutomationFrameworkATB11x) – Framework for REST API automation with TestNG
+
+### 🔧 Selenium Automation
+
+- ✅ [LearningSelenium](https://github.com/KathiravaVP/LearningSeleniumATB11x) – Selenium programs
+- 🔄 [AdvancedSeleniumFramework](https://github.com/KathiravaVP/ATB11xAdvancedSeleniumFramework) – TestNG framework using Page Object Model
+
