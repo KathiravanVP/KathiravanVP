@@ -57,12 +57,12 @@
 
 ### 🌐 API Testing
 
-- 🧪 [postman-crud-tests](https://github.com/KathiravaVP/SoftwareTestingProjects) – API testing for CRUD operations
+- 🧪 [PostmanAPITesting](https://github.com/KathiravaVP/PostmanAPITesting) – API testing for CRUD operations
 - ✅ [APIAutomationPrograms](https://github.com/KathiravaVP/ATB11xAPIAutomationPrograms) – REST API HTTP methods and TestNG
 - 🔄 [APIAutomationFramework](https://github.com/KathiravaVP/APIAutomationFrameworkATB11x) – Framework for REST API automation with TestNG
 
 ### 🔧 Selenium Automation
 
-- ✅ [LearningSelenium](https://github.com/KathiravaVP/LearningSeleniumATB11x) – Selenium programs
+- ✅ [LearningSelenium](https://github.com/KathiravaVP/LearningSeleniumATB11x) – Basic Selenium concepts and programs
 - 🔄 [AdvancedSeleniumFramework](https://github.com/KathiravaVP/ATB11xAdvancedSeleniumFramework) – TestNG framework using Page Object Model
 
