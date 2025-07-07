@@ -53,17 +53,17 @@
 
 ### 📄 Manual Testing
 
-- ✅ [SoftwareTestingProjects](https://github.com/KathiravaVP/SoftwareTestingProjects) – Functional test plan and test cases
+- ✅ [SoftwareTestingProjects](https://github.com/KathiravanVP/SoftwareTestingProjects) – Functional test plan and test cases
 
 ### 📚 Java Learning
 
-- 📘 [LearningJavaPrograms](https://github.com/KathiravaVP/SoftwareTestingProjects) - Java basic programs and OOPs concepts
+- 📘 [LearningJavaPrograms](https://github.com/KathiravanVP/LearningATB11xJavaPrograms) - Java basic programs and OOPs concepts
 
 ### 🌐 API Testing
 
-- 🧪 [PostmanAPITesting](https://github.com/KathiravaVP/PostmanAPITesting) – API testing for CRUD operations
-- ✅ [APIAutomationPrograms](https://github.com/KathiravaVP/ATB11xAPIAutomationPrograms) – REST API HTTP methods and TestNG
-- 🔄 [APIAutomationFramework](https://github.com/KathiravaVP/APIAutomationFrameworkATB11x) – Framework for REST API automation with TestNG
+- 🧪 [PostmanAPITesting](https://github.com/KathiravanVP/PostmanAPITesting) – API testing for CRUD operations
+- ✅ [APIAutomationPrograms](https://github.com/KathiravanVP/ATB11xAPIAutomationPrograms) – REST API HTTP methods and TestNG
+- 🔄 [APIAutomationFramework](https://github.com/KathiravanVP/APIAutomationFrameworkATB11x) – Framework for REST API automation with TestNG
 
 ### 🔧 Selenium Automation
 
