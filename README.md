@@ -67,6 +67,6 @@
 
 ### 🔧 Selenium Automation
 
-- ✅ [LearningSelenium](https://github.com/KathiravaVP/LearningSeleniumATB11x) – Basic Selenium concepts and programs
-- 🔄 [AdvancedSeleniumFramework](https://github.com/KathiravaVP/ATB11xAdvancedSeleniumFramework) – TestNG framework using Page Object Model
+- ✅ [LearningSelenium](https://github.com/KathiravanVP/LearningSeleniumATB11x) – Basic Selenium concepts and programs
+- 🔄 [AdvancedSeleniumFramework](https://github.com/KathiravanVP/ATB11xAdvancedSeleniumFramework) – TestNG framework using Page Object Model
 
